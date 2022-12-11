@@ -1,0 +1,34 @@
+.group-study{
+    margin-top: 128px;
+}
+.group-discus{
+    display: flex;
+    justify-content: space-between;
+}
+.group-left h3{
+    font-size: 38px;
+    font-weight: 600;
+}
+.group-left p{
+    color: #282938;
+    padding-top: 31px;
+    
+}
+.group-ab p{
+    font-weight: 600;
+}
+
+.group-right img{
+    height: 336px;
+    width: 547px;
+}
+
+.group-study-2{
+    margin-top: 128px;
+    height: 620px;
+    width: 100%;
+    background-color: #F4F6FC;
+}
+.group-d{
+    padding-top: 128px;
+}
